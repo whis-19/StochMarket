@@ -1,5 +1,5 @@
 
-# Finance Market Modeling System
+# StochMarket
 
 This project simulates various aspects of a financial market using stochastic processes. The system includes **Markov Models**, **Hidden Markov Models (HMM)**, and **Queuing Theory (M/M/1)** to model order state transitions, hidden market conditions, and order processing respectively. It allows users to interact with financial data and compute key metrics.
 
