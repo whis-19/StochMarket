@@ -1,4 +1,3 @@
-
 # StochMarket
 
 This project simulates various aspects of a financial market using stochastic processes. The system includes **Markov Models**, **Hidden Markov Models (HMM)**, and **Queuing Theory (M/M/1)** to model order state transitions, hidden market conditions, and order processing respectively. It allows users to interact with financial data and compute key metrics.
@@ -85,6 +84,7 @@ https://whis-19-stochmarket-app-w3dgsi.streamlit.app
 ├── hmm_model.py         # Hidden Markov Model logic
 ├── queue_model.py       # M/M/1 Queue metrics
 └── utils.py             # Shared utilities (e.g., data fetching)
+└── plot.py             # To visualise the model
 ```
 
 ## Acknowledgments
